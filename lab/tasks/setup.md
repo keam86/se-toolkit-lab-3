@@ -204,7 +204,10 @@
 
 1. [Install `uv`](../appendix/python.md#install-uv).
 
-#### 1.10.2. Install `Python` and dependencies
+#### 1.10.2. (NEW) Install `Python` and dependencies
+
+> [!NOTE]
+> The dependencies have been updated in this project version.
 
 1. [Install `Python` and dependencies](../appendix/python.md#install-python-and-dependencies).
 
